@@ -1,1 +1,39 @@
 /*  your css code here. If applicable */
+.middle{
+	/* border: 1px solid black; */
+	width: 100%;
+}
+table{
+	/* border: 1px solid black; */
+	Spacing: 1px;
+	border-spacing:0px
+}
+td, tr{
+	
+	margin: 0;
+	border: 1px solid black;
+	height: 20px;
+	padding:1px;
+}
+#table-2{
+	
+}
+#t21{
+	colspan: 6;
+}
+.center{
+	text-align:center;
+}
+.right{
+	text-align: right;
+}
+.bg-green{
+	background-color: green;
+}
+.bg-blue{
+	background-color: blue;
+}
+#t-image{
+	text-align:center;
+	/* height: 400px; */
+}
